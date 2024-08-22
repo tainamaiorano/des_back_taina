@@ -31,4 +31,4 @@ Usuario1.senha="1234";
 Usuario1.cpf="12025678942";
 Usuario1.celular="19984315647";
 Usuario1.exibir_info();
-Usuario1.verifica_login("Daniel","12345");
+Usuario1.verifica_login("Daniel","1234");
